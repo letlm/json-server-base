@@ -134,7 +134,7 @@ Os campos obrigatórios para adicionar o seu drink favorito são: name, alcoholi
 `GET /drinks -  FORMATO DA REQUISIÇÃO`
 
 - Não adicionar o token:
-`POST /icecream -  FORMATO DA RESPOSTA - STATUS 401`
+`POST /drinks -  FORMATO DA RESPOSTA - STATUS 401`
 ```json
 "Missing token"
 "Missing authorization header"
