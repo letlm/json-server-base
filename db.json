@@ -6,6 +6,28 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "testinho@gmail.com",
+      "password": "$2a$10$Xq7kpvfPx3lQtx.3BGzUoOspkELsUVdk6Cypj92MohuhDYXOzQE9.",
+      "name": "Testinho",
+      "age": 23,
+      "id": 2
+    }
+  ],
+  "icecream": [
+    {
+      "flavor": "Flakes",
+      "syrup": "Strawberry",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Mocaccino",
+      "alcoholic": "No",
+      "id": 1
     }
   ]
 }
